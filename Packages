@@ -1,0 +1,14 @@
+Package: com.colby.kecil
+Name: Kecil
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Theme
+Maintainer: me@colbyroark.com
+Author: me@colbyroark.com
+Section: Themes
+Depends:
+Filename: debs/com.colby.kecil.deb
+Size:
+MD5sum:
+SHA1:
+SHA256:
