@@ -1,6 +1,6 @@
 Package: com.colby.kecil
 Name: Kecil
-Version: 1.0
+Version: 4.9
 Architecture: iphoneos-arm
 Description: Theme
 Maintainer: me@colbyroark.com
@@ -14,8 +14,8 @@ SHA1:
 SHA256:
 
 Package: com.colby.jool
-Name: Kecil
-Version: 1.0
+Name: Jool
+Version: 6.2
 Architecture: iphoneos-arm
 Description: Theme
 Maintainer: me@colbyroark.com
@@ -29,8 +29,8 @@ SHA1:
 SHA256:
 
 Package: com.colby.lux
-Name: Kecil
-Version: 1.0
+Name: Lux
+Version: 3.2
 Architecture: iphoneos-arm
 Description: Theme
 Maintainer: me@colbyroark.com
