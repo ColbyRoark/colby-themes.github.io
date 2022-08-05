@@ -12,3 +12,33 @@ Size:
 MD5sum:
 SHA1:
 SHA256:
+
+Package: com.colby.jool
+Name: Kecil
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Theme
+Maintainer: me@colbyroark.com
+Author: me@colbyroark.com
+Section: Themes
+Depends:
+Filename: debs/com.colby.jool.deb
+Size:
+MD5sum:
+SHA1:
+SHA256:
+
+Package: com.colby.lux
+Name: Kecil
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Theme
+Maintainer: me@colbyroark.com
+Author: me@colbyroark.com
+Section: Themes
+Depends:
+Filename: debs/com.colby.lux.deb
+Size:
+MD5sum:
+SHA1:
+SHA256:
