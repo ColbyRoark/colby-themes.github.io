@@ -1,8 +1,8 @@
-Origin: themes
-Label: themes
+Origin: Colby's themes
+Label: Colby's themes
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: themes
+Description: Colby's themes
