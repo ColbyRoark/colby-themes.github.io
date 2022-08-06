@@ -2,7 +2,17 @@ Package: com.colby.kecil
 Name: Kecil
 Version: 4.9
 Architecture: iphoneos-arm
-Description: Theme
+Description:
+three versions of the theme, each with 600+ icons currently
+One glyphs theme
+One light theme
+One dark theme
+One colored theme
+One colored theme with reduced glyph sized
+Status Bar theme (Status bar themes can cause instability on iOS 11, so please be aware of that risk. This should work, but I don't guarantee.)
+Control Center Theme
+Settings icons
+Passcode Theme
 Maintainer: me@colbyroark.com
 Author: me@colbyroark.com
 Section: Themes
@@ -17,7 +27,15 @@ Package: com.colby.jool
 Name: Jool
 Version: 6.2
 Architecture: iphoneos-arm
-Description: Theme
+Description:
+four versions of the theme, each with ~500 icons currently
+One regular theme
+One light glyph theme
+One dark glyph theme
+One colored glyph theme
+Status Bar theme (Status bar themes can cause instability on iOS 11, so please be aware of that risk. This should work, but I don't guarantee.)
+Control Center Theme
+Settings Theme
 Maintainer: me@colbyroark.com
 Author: me@colbyroark.com
 Section: Themes
@@ -32,7 +50,10 @@ Package: com.colby.lux
 Name: Lux
 Version: 3.2
 Architecture: iphoneos-arm
-Description: Theme
+Description:
+One version of the glyph theme, with ~600 icons currently
+Status Bar theme (Status bar themes can cause instability on iOS 11, so please be aware of that risk. This should work, but I don't guarantee.) Credit goes to PINPAL#8606 for the help here.
+Settings icons
 Maintainer: me@colbyroark.com
 Author: me@colbyroark.com
 Section: Themes
