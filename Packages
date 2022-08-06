@@ -8,7 +8,7 @@ Author: me@colbyroark.com
 Section: Themes
 Depends:
 Filename: debs/com.colby.kecil.deb
-Size:
+Size: 19741000
 MD5sum:
 SHA1:
 SHA256:
@@ -23,7 +23,7 @@ Author: me@colbyroark.com
 Section: Themes
 Depends:
 Filename: debs/com.colby.jool.deb
-Size:
+Size: 6949000
 MD5sum:
 SHA1:
 SHA256:
@@ -38,7 +38,7 @@ Author: me@colbyroark.com
 Section: Themes
 Depends:
 Filename: debs/com.colby.lux.deb
-Size:
+Size: 2226000
 MD5sum:
 SHA1:
 SHA256:
